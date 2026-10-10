@@ -1,0 +1,15 @@
+
+> campus-lending-hub@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3000
+- Network:       http://192.168.56.1:3000
+- Environments: .env.local
+✓ Ready in 989ms
+✓ Running next.config.ts took 99ms
+- Cache Components enabled
+- Partial Prefetching enabled
+
+ GET / 200 in 1348ms (next.js: 299ms, application-code: 1049ms)
+ GET / 200 in 1030ms (next.js: 4ms, application-code: 1027ms)

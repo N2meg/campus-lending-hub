@@ -1,0 +1,11 @@
+
+> campus-lending-hub@0.1.0 dev
+> next dev
+
+▲ Next.js 16.4.0 (Turbopack)
+- Local:         http://localhost:3001
+- Network:       http://192.168.56.1:3001
+- Environments: .env.local
+✓ Ready in 1100ms
+✓ Running next.config.ts took 60ms
+[?25h
